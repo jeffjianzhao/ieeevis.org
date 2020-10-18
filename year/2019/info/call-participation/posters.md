@@ -11,7 +11,7 @@ In addition to a poster being displayed throughout IEEE VIS:
 
 * a two-page summary of your work will be included in the electronic conference proceedings (USB memory stick distributed to conference attendees);
 * interactive poster sessions will provide a forum for presenting your work and discussing new ideas with your peers;
-* video previews for posters are strongly suggested;<!-- * [video previews](/year/2019/info/presenter-information/video-previews) for posters are strongly suggested; -->
+* [video previews](/year/2019/info/presenter-information/fast-forward-and-video-previews) for posters are strongly suggested;
 * one presenter per poster will be eligible for the reduced conference rate for authors;
 * best poster design award will be chosen (new this year). 
 
@@ -77,7 +77,7 @@ At the time of submission, it is required by the authors to state explicitly in 
 | Submission Deadline				| **Friday, June 14, 2019**
 | Notification of Acceptance				| **Monday, July 22, 2019**
 | Final Submission of Camera Ready Summaries	| **Thursday, August 1, 2019**
-| Submission of Video Previews			| **Monday, August 5, 2019** <!-- (see also [Video Previews](/year/2018/info/presenter-information/video-previews)) -->
+| Submission of Video Previews			| **Thursday, August 15, 2019** <!-- (see also [Video Previews](/year/2018/info/presenter-information/video-previews)) -->
 
 All deadlines are at **5:00pm Pacific Time (PDT)**.
 
